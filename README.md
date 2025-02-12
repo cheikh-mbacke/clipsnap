@@ -2,162 +2,113 @@
 <br />
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/psparwez/quick-reel)
-![GitHub stars](https://img.shields.io/github/stars/psparwez/quick-reel?style=social)
-![GitHub forks](https://img.shields.io/github/forks/psparwez/quick-reel?style=social)
+<br />
+<br />
+<h1 align="center">ClipSnap</h1> <br />
+<br />
+Une Landing Page entièrement réactive, <br />
+conçue pour promouvoir un outil alimenté par l'IA permettant de créer des clips courts viraux.<br />
+Compatible avec tous les appareils, développée en HTML, CSS et JavaScript.
 
 <br />
 <br />
-<h1 align="center">Quick Reel Website</h1> <br />
-<br />
-A fully responsive Quick Reel landing page, <br />designed to promote an AI-powered tool for creating viral short clips. <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-<br />
-<br />
-<a href="https://psparwez.github.io/quick-reel/"><strong>➥ Live Demo</strong></a>
+<a href="https://cheikh-mbacke.github.io/clipsnap/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 <br />
 
-### Demo Screeshots
+## 📋 <a name="table">Table des matières</a>
 
-<div align="center">
-  <br />
-      <img src="https://github.com/user-attachments/assets/f2519d29-bac0-4470-992d-6af8f92a419e" , alt="Project Banner">
-      <br />
-      <br />
-      <br />
-      <img src="https://github.com/user-attachments/assets/589c1650-e524-4bbe-b291-a38fe2356342" , alt="Project Banner">
-  <br />
-  <br />
-  <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26" alt="HTML5" />
-    <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="CSS3" />
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" alt="JavaScript" />
-</div>
-
-<br />
-<br />
-</div>
-
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-
+1. 🤖 [Introduction](#introduction)  
+2. ⚙️ [Technologies utilisées](#tech-stack)  
+3. 🔋 [Fonctionnalités](#features)  
 
 ## <a name="introduction">🤖 Introduction</a>
 
+Ce projet est une langing page moderne développée en **HTML5**, **CSS3** et **JavaScript**.  
+Elle est conçue pour promouvoir **ClipSnap**, un outil alimenté par l'IA permettant de convertir de longues vidéos en clips courts viraux.  
 
-This project is a modern landing page built using **HTML5**, **CSS3**, and **JavaScript**. It is designed to promote **QuickReel**, an AI-powered tool for converting long videos into viral short clips. The website features a clean, responsive design with an intuitive layout, ensuring a seamless and engaging user experience. By leveraging modern web development techniques, this project creates a fast, scalable, and user-friendly interface that highlights the platform's key features and benefits.
-
-
+Le site propose un design épuré et réactif avec une mise en page intuitive, garantissant une expérience utilisateur fluide et engageante.  
+Grâce aux techniques modernes de développement web, ce projet offre une interface rapide, évolutive et conviviale qui met en avant les principales fonctionnalités et avantages de la plateforme.
 
 <br/>
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">⚙️ Technologies utilisées</a>
 
 - **`HTML5`**
 - **`CSS3`**
 - **`JavaScript`**
 
+## <a name="features">🔋 Fonctionnalités</a>
 
-## <a name="features">🔋 Features</a>
+👉 **Section d'en-tête (Hero Section) :**  
+Une section accrocheuse mettant en avant les principaux avantages de la plateforme : montage vidéo assisté par IA, confiance des utilisateurs et un bouton d'appel à l'action pour commencer.
 
-👉 **Hero Section:**
-A compelling hero section that highlights the key benefits of the platform—AI-powered video editing, user trust, and a call-to-action button for getting started.
+👉 **Section Fonctionnalités & Services :**  
+Un aperçu des outils avancés de la plateforme, incluant la génération automatique de clips par IA, le recadrage automatique, l'ajout de sous-titres et les aperçus pour les réseaux sociaux.
 
-👉 **Features & Services Section:**
-An overview of the platform’s advanced tools, including AI-generated clips, auto-cropping, subtitles, and social media previews.
+👉 **Section "Comment ça marche" :**  
+Un guide pas à pas expliquant comment les utilisateurs peuvent télécharger une vidéo, laisser l’IA générer des clips courts, puis télécharger ou publier le résultat en un clic.
 
-👉 **How It Works Section:**
-A step-by-step guide explaining how users can upload a video, let the AI generate short clips, and download or publish the results in one click.
+👉 **Section Témoignages d'utilisateurs :**  
+Retours d'expérience de vrais utilisateurs partageant leur satisfaction avec ClipSnap.
 
-👉 **User Testimonials Section:**
-Feedback from real users highlighting their experience and satisfaction with QuickReel.
+👉 **Section Tarification :**  
+Une comparaison détaillée des abonnements Free, Pro et Premium, mettant en avant les fonctionnalités incluses dans chaque offre.
 
-👉 **Pricing Plans Section:**
-A detailed comparison of the Free, Pro, and Premium subscription tiers, showcasing what each plan offers.
+👉 **Section FAQ :**  
+Réponses aux questions fréquentes pour aider les utilisateurs à mieux comprendre la plateforme et faciliter leur intégration.
 
-👉 **FAQ Section:**
-Answers to frequently asked questions to address user concerns and simplify onboarding.
+👉 **Sections animées avec ScrollReveal :**  
+Animations fluides déclenchées lors du défilement de la page, implémentées avec la bibliothèque ScrollReveal pour améliorer l’engagement et l’attrait visuel.
 
-👉 **Animated Sections with ScrollReveal:** Smooth animations triggered as the user scrolls through the page, implemented using the ScrollReveal library to enhance engagement and visual appeal.
+👉 **Pied de page (Footer) :**  
+Un pied de page contenant des liens de navigation, des icônes de réseaux sociaux et une option d'abonnement à la newsletter.
 
+## 🤸 Démarrage rapide
 
-
-👉 **Footer:**
-A footer with navigation links, social media icons, and a subscription option for the newsletter.
-
-## 🤸 Quick Start
-
-To set up the **QuickReel** project on your local machine, follow these steps.
+Pour installer et exécuter le projet sur votre machine locale, suivez ces étapes.
 
 ---
 
-### Prerequisites
+### Prérequis
 
-Before starting, make sure you have the following installed:
+Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 
-- [Git](https://git-scm.com/) : Required for cloning the repository.
-- A code editor like [VS Code](https://code.visualstudio.com/) with **Live Server** installed for local hosting.
+- [Git](https://git-scm.com/) : Requis pour cloner le dépôt.
+- Un éditeur de code comme [VS Code](https://code.visualstudio.com/) avec l’extension **Live Server** pour l'hébergement local.
 
 ---
 
-### Steps
+### Étapes
 
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/psparwez/quick-reel.git
-    ```
-
-2. **Navigate to the project folder:**
+1. **Cloner le dépôt :**
 
     ```bash
-    cd quick-reel
+    git clone https://github.com/cheikh-mbacke/clipsnap.git
     ```
 
-3. **Open the project in your editor:**
+2. **Naviguer dans le dossier du projet :**
+
+    ```bash
+    cd clipsnap
+    ```
+
+3. **Ouvrir le projet dans votre éditeur :**
 
     ```bash
     code .
     ```
 
-4. **Run the project using Live Server:**
+4. **Exécuter le projet avec Live Server :**
 
-   - Right-click the `index.html` file in your editor.
-   - Select **"Open with Live Server"** to launch the website in your default browser.
-
----
-
-You’re now ready to explore and customize **QuickReel** locally!
+   - Faites un clic droit sur le fichier `index.html` dans votre éditeur.
+   - Sélectionnez **"Ouvrir avec Live Server"** pour lancer le site dans votre navigateur par défaut.
 
 ---
 
-## 📞 Contact
+Vous êtes maintenant prêt à explorer et personnaliser **ClipSnap* localement !
 
-If you have any questions, encounter issues, or would like to collaborate on this project, feel free to reach out!
+---
 
-
-[![Contact](https://img.shields.io/badge/Contact-175fd4?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/psparwez/psparwez/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-
-### Reporting Issues
-
-If you encounter any bugs or have suggestions, please open an issue on the [GitHub Issues page](https://github.com/psparwez/quick-reel/issues).
-
-I look forward to hearing from you and collaborating!
-<br />
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-<br/>
